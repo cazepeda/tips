@@ -1,0 +1,4 @@
+iframe[src*="youtube"],
+iframe[src*="vimeo"] {
+    aspect-ratio: var(--aspect-ratio, 16/9);
+}
